@@ -28,6 +28,19 @@ tensorflow==2.16.1
 pyocr==0.8.5
 streamlit==1.35.0
 
+google-api-core==2.10.2
+google-auth==2.13.0
+google-auth-oauthlib==0.4.6
+google-cloud-bigquery==2.34.4
+google-cloud-bigquery-storage==2.16.2
+google-cloud-core==2.3.2
+google-cloud-storage==2.4.0
+google-crc32c==1.5.0
+google-pasta==0.2.0
+google-resumable-media==2.4.0
+google-trans-new==1.1.9
+googleapis-common-protos==1.56.4
+
 anyio==4.3.0
 appnope==0.1.4
 argon2-cffi==23.1.0
